@@ -1,0 +1,5 @@
+psutil
+wmi
+pyautogui
+Pillow
+pyperclip
